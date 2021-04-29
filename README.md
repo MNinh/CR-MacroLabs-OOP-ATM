@@ -1,8 +1,12 @@
 
 Contributors: 
+
 Mike Ninh (@MNinh), 
+
 Alena Litouka (@CodeHere21),
+
 Xiong Yuan (@xyuan04),
+
 Liam Becker (@liamkbecker)
 
 
