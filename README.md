@@ -1,3 +1,13 @@
+
+Contributors: 
+Mike Ninh (@MNinh), 
+Alena Litouka (@CodeHere21),
+Xiong Yuan (@xyuan04),
+Liam Becker (@liamkbecker)
+
+
+
+
 # project-2-ATM
 Week 2 project: ATM Simulator
 
